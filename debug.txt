@@ -1,0 +1,7 @@
+jax,flax等等的problem
+默认安装的jaxlib的版本可能和jax不incompatible
+requirements里面加上jaxlib==0.4.20保证版本兼容
+
+nvcc版本问题（actually）
+
+PATH
