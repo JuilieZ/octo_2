@@ -1,0 +1,3 @@
+[submodule "examples/act"]
+	path = examples/act
+	url = https://github.com/tonyzhaozh/act.git
